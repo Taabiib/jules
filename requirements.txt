@@ -1,0 +1,7 @@
+pdfplumber
+BeautifulSoup4
+Pillow
+pytesseract
+pandas
+customtkinter
+pyinstaller
